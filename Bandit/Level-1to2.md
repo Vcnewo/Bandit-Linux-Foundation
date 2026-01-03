@@ -15,7 +15,7 @@ Find the password of bandit2 in the file given in the system which is names with
 
 Cat (concatonate) allows to read a file in the terminal, but doesn't allow to modify it
 
-## Solution
+## Solution:
 
 - cat ./-
 

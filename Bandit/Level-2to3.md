@@ -1,7 +1,7 @@
 
 # Bandit Level 2 -> 3
 
-##Goal
+## Goal
 
 Read the password by accessing the file given in the directory were working the file is named"--space in the files"
 

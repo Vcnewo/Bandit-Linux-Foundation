@@ -26,6 +26,6 @@ that were the same after each other so that uniq could catch the
 helps send the output of a command to be used with another command, since we can't run sort and uniq at the same 
 time we need to pipe the output of the sorted file to the command uniq -u to find the unique line.
 
-## solution of the level
+## Solution:
 
 sort data.txt | uniq -u

@@ -1,12 +1,18 @@
 # Bandit Level 0 → 1
 
 ## Goal
-Connect to the Bandit server using SSH.
+The password for the next level is stored in a file called - located in the home directory
 
 ## Concepts Used
-- SSH
-- Remote login
+
+- File accessing
 
 ## Commands Used
 
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+- cat 
+
+cat (concatonate) used to read a file in the linux terminal
+
+## Solution:
+
+- cat readme

@@ -15,7 +15,7 @@ The password for the next level is stored in the file data.txt next to the word 
 
 grep is used to find a specific search in a file
 
-## Solution 
+## Solution: 
 
 - grep "millionth" data.txt
 
