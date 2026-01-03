@@ -2,16 +2,16 @@
 
 ## Bandit Levels
 
-- [x] Bandit Level 0->1  : completed
-- [x] Bandit Level 1->2  : completed
-- [x] Bandit Level 2->3  : completed
-- [x] Bandit Level 3->4  : completed
-- [x] Bandit Level 4->5  : completed
-- [x] Bandit Level 5->6  : completed
-- [x] Bandit Level 6->7  : completed
-- [x] Bandit Level 7->8  : completed
-- [] Bandit Level 8->9   : In progress...
-- [] Bandit Level 9->10  : 
+- [x] Bandit Level 0->1  : Completed
+- [x] Bandit Level 1->2  : Completed
+- [x] Bandit Level 2->3  : Completed
+- [x] Bandit Level 3->4  : Completed
+- [x] Bandit Level 4->5  : Completed
+- [x] Bandit Level 5->6  : Completed
+- [x] Bandit Level 6->7  : Completed
+- [x] Bandit Level 7->8  : Completed
+- [x] Bandit Level 8->9  : Completed
+- [] Bandit Level 9->10  : In progress ...
 - [] Bandit Level 10->11 : 
 - [] Bandit Level 11->12 : 
 - [] Bandit Level 12->13 : 
