@@ -1,7 +1,7 @@
 
 # Linux Commands – Foundations
 
-This document tracks Linux commands learned during the Month january 2026 of my cybersecurity roadmap,
+This document tracks Linux commands learned during the Month 0 (january 2026) of my cybersecurity roadmap,
 with a focus on security and system fundamentals.
 
 
