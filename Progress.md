@@ -11,8 +11,8 @@
 - [x] Bandit Level 6->7  : Completed
 - [x] Bandit Level 7->8  : Completed
 - [x] Bandit Level 8->9  : Completed
-- [] Bandit Level 9->10  : In progress ...
-- [] Bandit Level 10->11 : 
+- [x] Bandit Level 9->10 : Completed
+- [] Bandit Level 10->11 : In progress ...
 - [] Bandit Level 11->12 : 
 - [] Bandit Level 12->13 : 
 - [] Bandit Level 13->14 : 
