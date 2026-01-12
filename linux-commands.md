@@ -18,7 +18,7 @@ with a focus on security and system fundamentals.
 - `less` – view large files
 - `file` – identify file type
 - `strings` – extract readable strings from binaries
-
+-  `base64` - encode or decode Base64 data
 ## Search & Filtering
 - `find` – search files by name, size, owner, permissions
 - `grep` – search text inside files
